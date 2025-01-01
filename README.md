@@ -1,26 +1,35 @@
-Carro a Controle Remoto com Arduino
+## Carro a Controle Remoto com Arduino
+
 Este projeto é um carro a controle remoto desenvolvido com Arduino. O código controla a direção do carro, faróis, som e LEDs.
 
-Funcionalidades
+## Funcionalidades
+
+```
 Controle de direção (frente, trás, esquerda, direita)
-
+```
+```
 Ligar e desligar faróis
-
+```
 Ligar som do carro
-
+```
 Ligar LEDs
-
+```
 Como Usar
+```
 Clone este repositório para o seu ambiente local.
-
+```
 Conecte os componentes ao Arduino conforme a definição dos pinos no código.
-
+```
 Carregue o código carro_controle_remoto.ino no Arduino.
-
+```
 bash
+```
 git clone https://github.com/SeuUsuario/SeuRepositorio.git
+```
+```
 cd SeuRepositorio
-Estrutura do Código
+```
+## Estrutura do Código
 O código principal está no arquivo carro_controle_remoto.ino. Ele define os pinos utilizados e controla as funcionalidades do carro.
 
 cpp
