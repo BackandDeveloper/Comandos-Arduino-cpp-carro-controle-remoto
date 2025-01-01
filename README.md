@@ -2,7 +2,7 @@
 
 Este projeto é um carro a controle remoto desenvolvido com Arduino. O código controla a direção do carro, faróis, som e LEDs.
 
-## Funcionalidades
+## 📋| Funcionalidades
 
 ```
 Controle de direção (frente, trás, esquerda, direita)
