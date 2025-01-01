@@ -10,11 +10,13 @@ Controle de direção (frente, trás, esquerda, direita)
 ```
 Ligar e desligar faróis
 ```
+```
 Ligar som do carro
+```
 ```
 Ligar LEDs
 ```
-Como Usar
+## Como Usar
 ```
 Clone este repositório para o seu ambiente local.
 ```
@@ -32,6 +34,7 @@ cd SeuRepositorio
 ## Estrutura do Código
 O código principal está no arquivo carro_controle_remoto.ino. Ele define os pinos utilizados e controla as funcionalidades do carro.
 
+```
 cpp
 // Definição dos pinos
 const int pinFrente = 2;
@@ -90,6 +93,8 @@ void loop() {
   delay(500);
   digitalWrite(pinLED, LOW);
 }
+
+```
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
