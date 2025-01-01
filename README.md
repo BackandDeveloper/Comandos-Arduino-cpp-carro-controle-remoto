@@ -31,7 +31,7 @@ git clone https://github.com/SeuUsuario/SeuRepositorio.git
 ```
 cd SeuRepositorio
 ```
-## Estrutura do Código
+## 🗂️| Estrutura do Código
 O código principal está no arquivo carro_controle_remoto.ino. Ele define os pinos utilizados e controla as funcionalidades do carro.
 
 ```
