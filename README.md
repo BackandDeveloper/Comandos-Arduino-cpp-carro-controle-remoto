@@ -16,7 +16,7 @@ Ligar som do carro
 ```
 Ligar LEDs
 ```
-## Como Usar
+## 📑| Como Usar
 ```
 Clone este repositório para o seu ambiente local.
 ```
