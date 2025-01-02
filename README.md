@@ -24,13 +24,12 @@ Conecte os componentes ao Arduino conforme a definição dos pinos no código.
 ```
 Carregue o código carro_controle_remoto.ino no Arduino.
 ```
-bash
+Clone este repositório para o seu ambiente local:
 ```
-git clone https://github.com/SeuUsuario/SeuRepositorio.git
+git clone https://github.com/SeuUsuario/SeuRepositorio.git > cd SeuRepositorio
+
 ```
-```
-cd SeuRepositorio
-```
+
 ## 🗂️| Estrutura do Código
 O código principal está no arquivo carro_controle_remoto.ino. Ele define os pinos utilizados e controla as funcionalidades do carro.
 
@@ -106,3 +105,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## 📲| Contato
 
 📩| E-mail: henrique.pedro62@aluno.ifce.edu.br
+
+
