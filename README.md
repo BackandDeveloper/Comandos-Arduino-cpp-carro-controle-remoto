@@ -24,7 +24,7 @@ Conecte os componentes ao Arduino conforme a definição dos pinos no código.
 ```
 Carregue o código carro_controle_remoto.ino no Arduino.
 ```
-Clone este repositório para o seu ambiente local:
+Clone este repositório para o seu ambiente local.
 ```
 git clone https://github.com/SeuUsuario/SeuRepositorio.git > cd SeuRepositorio
 
