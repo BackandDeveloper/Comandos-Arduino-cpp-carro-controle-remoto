@@ -95,7 +95,7 @@ void loop() {
 
 ```
 
-## 🤝| Contribuições
+## 👥| Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para me mandar um e-mail falando sobre! 
 
